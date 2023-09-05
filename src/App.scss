@@ -10,8 +10,11 @@
     align-items: center;
 
     .register{
+        
         width: 60%;
         height: 70%;
+        flex-direction: column;
+        gap: 10px;
         border-radius: 20px;
         background-color: black;
         color: #fff;
